@@ -14,6 +14,8 @@ The Agent Seed project solves the problem of context saturation with a JIT-spawn
 
 And when you have more than one, they talk with each other and work with each other without the failure modes that have plagued multi-agent systems — infinity loops, double-handling, talking past each other. The discipline that makes that possible is constitutional, baked into the agent at birth, not enforced from outside.
 
+Humans swim in a sea of time and, like fish, don't know they're wet. Every word you say to an agent is shot through with it — *"this afternoon," "in two days," "before bed," "weeks away"* — references that do real work for you, and that most agents treat as background noise. A Seed agent treats them as first-class signal. It thinks in your clock, not the server's. It tracks the state your time-references imply. It feels the difference between yesterday and last month. A Seed agent can't experience time the way you do — but it can understand that you do, and that's what makes it feel like an agent that actually knows you.
+
 Grow your agent into anything you want. Tell it in natural conversation what you want it to do, and — powered by Claude Code — it will do it. Need more agents? Your first agent will grow you more. All your agents can, in natural conversation, work together.
 
 Grow one Seed agent into a **living diary** that knows you across weeks. Deploy four as a **working organization** with named roles. Seed entire **trees of specialized agents** from a single canonical kit, each carrying its lineage back to its first ancestor. The work is open, the kit is reproducible, and once an agent is born — first conversation, first name, first identity — it's yours.
